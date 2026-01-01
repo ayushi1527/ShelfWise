@@ -1,5 +1,6 @@
 # ShelfWise
-Project for Microsoft's Imagine Cup. 
+Project for Microsoft's Imagine Cup.
+
 📌 Problem Statement
 
 Retailers struggle with inaccurate demand forecasting, inefficient inventory management, and losses caused by overstocking and near-expiry products. At the same time, customers face information overload, lack of personalized guidance, and a higher chance of incorrect purchases and returns. Existing retail systems operate in silos and fail to provide an integrated, intelligent solution that balances operational efficiency, customer experience, and sustainability.
