@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import FeatureCard from "../components/FeatureCard";
-import SustainabilityScanner from "../components/SustainabilityScanner";
 export default function Consumer() {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
   const [showScanner, setShowScanner] = useState(false);
